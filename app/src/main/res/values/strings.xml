@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">내가만드는 화이트노이즈</string>
+    <string name="back"><![CDATA[>]]></string>
+    <string name="rewind"><![CDATA[<<]]></string>
+    <string name="forward"><![CDATA[>>]]></string>
+    <string name="pause">||</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3134162882482702/2845653476</string>
+    <string name="title_activity_timer">timer</string>
+</resources>
